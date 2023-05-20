@@ -1,0 +1,12 @@
+.intro-container {
+  background-color: var(--bg-color);
+}
+
+.intro-div {
+  width: 50%;
+}
+
+.intro-div-right {
+  width: 40%;
+  margin-right: 5rem;
+}

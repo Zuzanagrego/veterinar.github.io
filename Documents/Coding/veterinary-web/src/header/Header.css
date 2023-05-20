@@ -1,0 +1,15 @@
+.header__logo {
+  font-family: 'Cinzel', serif;
+  font-weight: 500;
+}
+
+.header__container {
+  justify-content: space-between;
+  padding: 1rem 5rem;
+}
+
+.header__list {
+  margin-left: 3rem;
+  width: 40%;
+  justify-content: space-between;
+}

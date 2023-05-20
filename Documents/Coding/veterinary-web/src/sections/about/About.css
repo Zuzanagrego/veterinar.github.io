@@ -1,0 +1,27 @@
+.about-container {
+  background-color: var(--bg-color);
+}
+
+.about-sub {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 2rem;
+}
+
+.about-sub-right,
+.about-sub-left {
+  max-width: 40%;
+  max-height: 100%;
+  padding: 5px;
+}
+
+.sub-logo-img {
+  max-width: 100px;
+  max-height: 100px;
+  margin-left: 30%;
+}
+
+.sub-img-img {
+  max-width: 300px;
+  max-height: 300px;
+}
